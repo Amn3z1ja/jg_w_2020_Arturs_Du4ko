@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83d75d25-27d8-4c8c-ab67-b1b251cc76c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WzlDtOFs1IMVxlC8JG9qz2PbXR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.WhileLoops">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="JAVAru" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathOperations" />
+      <module name="JAVAru" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings" />
+      <module name="JAVAru" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables" />
+      <module name="JAVAru" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoops" />
+      <module name="JAVAru" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WhileLoops" />
+        <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.MathOperations" />
+        <item itemvalue="Application.Variables" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83d75d25-27d8-4c8c-ab67-b1b251cc76c7" name="Default Changelist" comment="" />
+      <created>1580160187538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580160187538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580162106430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="420" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580162106430" />
+    <state x="708" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580162194653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="708" y="338" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580162194653" />
+    <state width="927" height="215" key="GridCell.Tab.0.bottom" timestamp="1580211779340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="927" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580211779340" />
+    <state width="927" height="215" key="GridCell.Tab.0.center" timestamp="1580211779340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="927" height="215" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580211779340" />
+    <state width="927" height="215" key="GridCell.Tab.0.left" timestamp="1580211779340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="927" height="215" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580211779340" />
+    <state width="927" height="215" key="GridCell.Tab.0.right" timestamp="1580211779340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="927" height="215" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580211779340" />
+    <state x="636" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1580203886263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="371" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580203886263" />
+  </component>
+</project>
